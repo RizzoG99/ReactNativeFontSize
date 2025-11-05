@@ -2,15 +2,15 @@
 
 ![Build](https://github.com/RizzoG99/ReactNativeFontSize/workflows/Pre%20Merge%20Checks/badge.svg)
 
-This is your new React Native Reproducer project.
+I reproduce this issue on iOS also on simulator.
 
-# Reproducer TODO list
+## From big font size to regular font size
+<img src="screenshot/big-regular1.png" width="200">
+<img src="screenshot/big-regular2.png" width="200">
 
-- [x] 1. Create a new reproducer project.
-- [ ] 2. Git clone your repository locally.
-- [ ] 3. Edit the project to reproduce the failure you're seeing.
-- [ ] 4. Push your changes, so that Github Actions can run the CI.
-- [ ] 5. Make sure the repository is public and share the link with the issue you reported.
+## From regular font size to big font size
+<img src="screenshot/regular-big1.png" width="200">
+<img src="screenshot/regular-big2.png" width="200">
 
 # How to use this Reproducer
 
